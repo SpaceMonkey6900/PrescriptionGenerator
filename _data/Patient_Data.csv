@@ -1,0 +1,2822 @@
+Sno,Name,PatientID,Age,Date,Gender,Contact,eMail,Complaints,Allergy,History,Diagnosis,R
+1,Human Person1,1234501,15,27-05-2021,M,9876543201,HumanPerson1@gmail.com,Back Pain,"Dust, Pineapples, Oranges","Cancer Survivor, Coronavirus Survivor",Coronavirus Positive,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+2,Human Person2,1234502,23,28-05-2021,F,9876543202,HumanPerson2@yahoo.com,Neck Pain,"Peanuts, Apples, Dust",Diagnosed with Tumor in 2012,Lukemia,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+3,Human Person3,1234503,64,29-05-2021,M,9876543203,HumanPerson3@gmail.com,Stomach Ache,"Milk, Walnuts, Zucchini",Coronavirus Survivor,Coronavirus Positive (Mild Strain),"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+4,Human Person4,1234504,87,30-05-2021,F,9876543204,HumanPerson4@yahoo.com,Vision Blurriness,"Pineapple, Walnuts, Cucumber",No past medical history,Brain Tumor,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+5,Human Person5,1234505,53,31-05-2021,F,9876543205,HumanPerson1@gmail.com,Back Pain,"Almonds, Jelly, Milk","Epilipsy, Thyroxin",Knee Surgery,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+6,Human Person6,1234506,14,01-06-2021,M,9876543206,HumanPerson2@yahoo.com,Neck Pain,NA,Knee Surgery,Coronavirus Positive,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+7,Human Person7,1234507,23,02-06-2021,F,9876543207,HumanPerson3@gmail.com,Stomach Ache,"Dust, Pineapples, Oranges","Cancer Survivor, Coronavirus Survivor",Lukemia,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+8,Human Person8,1234508,96,03-06-2021,M,9876543208,HumanPerson4@yahoo.com,Vision Blurriness,"Peanuts, Apples, Dust",Diagnosed with Tumor in 2013,Coronavirus Positive (Mild Strain),"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+9,Human Person9,1234509,24,04-06-2021,F,9876543209,HumanPerson1@gmail.com,Back Pain,"Milk, Walnuts, Zucchini",Coronavirus Survivor,Brain Tumor,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+10,Human Person10,1234510,85,05-06-2021,M,9876543210,HumanPerson2@yahoo.com,Neck Pain,"Pineapple, Walnuts, Cucumber",No past medical history,Knee Surgery,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+11,Human Person11,1234511,16,06-06-2021,F,9876543211,HumanPerson3@gmail.com,Stomach Ache,"Almonds, Jelly, Milk","Epilipsy, Thyroxin",Coronavirus Positive,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+12,Human Person12,1234512,54,07-06-2021,F,9876543212,HumanPerson4@yahoo.com,Vision Blurriness,NA,Knee Surgery,Lukemia,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+13,Human Person13,1234513,82,08-06-2021,M,9876543213,HumanPerson1@gmail.com,Back Pain,"Dust, Pineapples, Oranges","Cancer Survivor, Coronavirus Survivor",Coronavirus Positive (Mild Strain),"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+14,Human Person14,1234514,57,09-06-2021,F,9876543214,HumanPerson2@yahoo.com,Neck Pain,"Peanuts, Apples, Dust",Diagnosed with Tumor in 2014,Brain Tumor,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+15,Human Person15,1234515,24,10-06-2021,M,9876543215,HumanPerson3@gmail.com,Stomach Ache,"Milk, Walnuts, Zucchini",Coronavirus Survivor,Knee Surgery,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+16,Human Person16,1234516,84,11-06-2021,F,9876543216,HumanPerson4@yahoo.com,Vision Blurriness,"Pineapple, Walnuts, Cucumber",No past medical history,Coronavirus Positive,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+17,Human Person17,1234517,64,12-06-2021,M,9876543217,HumanPerson1@gmail.com,Back Pain,"Almonds, Jelly, Milk","Epilipsy, Thyroxin",Lukemia,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+18,Human Person18,1234518,94,13-06-2021,F,9876543218,HumanPerson2@yahoo.com,Neck Pain,NA,Knee Surgery,Coronavirus Positive (Mild Strain),"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+19,Human Person19,1234519,14,14-06-2021,F,9876543219,HumanPerson3@gmail.com,Stomach Ache,"Dust, Pineapples, Oranges","Cancer Survivor, Coronavirus Survivor",Brain Tumor,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+20,Human Person20,1234520,33,15-06-2021,M,9876543220,HumanPerson4@yahoo.com,Vision Blurriness,"Peanuts, Apples, Dust",Diagnosed with Tumor in 2015,Knee Surgery,"Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+"
+21,Human Person2,1234502,23,28-05-2021,F,9876543202,sassysniper007@gmail.com,"Neck Pain
+","Peanuts, Apples, Dust
+","Diagnosed with Tumor in 2012
+","Lukemia
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+22,Human Person4,1234504,87,11-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+","Pineapple, Walnuts, Cucumber
+","No past medical history
+","Brain Tumor
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+23,Human Person7,1234507,23,13-05-2021,F,9876543207,HumanPerson3@gmail.com,"Stomach Ache
+","Dust, Pineapples, Oranges
+","Cancer Survivor, Coronavirus Survivor
+","Lukemia
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+24,Human Person4,1234504,87,11-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+","Pineapple, Walnuts, Cucumber
+
+","No past medical history
+
+","Brain Tumor
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+"
+25,Human Person4,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+","No past medical history
+
+
+","Brain Tumor
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+"
+26,Human Person99,1234504,87,13-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+","No past medical history
+
+
+","Brain Tumor
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+"
+27,Human Person4,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+","No past medical history
+
+
+
+","Brain Tumor
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+"
+28,Human Person4,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+","No past medical history
+
+
+
+
+","Brain Tumor
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+29,Human Person4,1234504,87,10-05-2021,F,9876543204,sassysniper007@gmail.com,"notice new date
+
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+
+","No past medical history
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+"
+30,Human Person99,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+","No past medical history
+
+
+
+","Brain Tumor
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+"
+31,Human Person2,1234502,23,18-05-2021,F,9876543202,sassysniper007@gmail.com,"Neck Pain
+
+","Peanuts, Apples, Dust
+
+","Diagnosed with Tumor in 2012
+
+","Lukemia
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+"
+32,Human Person99,1234504,87,12-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+","No past medical history
+
+
+
+
+","Brain Tumor
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+33,Human Person99,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+","No past medical history
+
+
+
+
+","Brain Tumor
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+34,Human Person4,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+","No past medical history
+
+
+
+
+","Brain Tumor
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+35,Human Person4,1234504,87,19-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+","No past medical history
+
+
+
+
+","Brain Tumor
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+36,Human Person99,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+
+","No past medical history
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+"
+37,Human Person99,1234504,87,10-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+
+","No past medical history
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+"
+38,Preeti Deven,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+
+
+","No past medical history
+
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+"
+39,Preeti_Deven,1234504,87,28-05-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+
+
+","No past medical history
+
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+"
+40,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+","Milk, Walnuts, Zucchini
+","Coronavirus Survivor
+","Brain Tumor
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+41,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+
+","Milk, Walnuts, Zucchini
+
+","Coronavirus Survivor
+
+","Brain Tumor
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+"
+42,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+
+","Milk, Walnuts, Zucchini
+
+","Coronavirus Survivor
+
+","Brain Tumor
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+"
+43,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+
+
+","Milk, Walnuts, Zucchini
+
+
+","Coronavirus Survivor
+
+
+","Brain Tumor
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+"
+44,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+
+
+","Milk, Walnuts, Zucchini
+
+
+","Coronavirus Survivor
+
+
+","Brain Tumor
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+"
+45,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+","NA
+","Knee Surgery
+","Coronavirus Positive
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+46,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+","NA
+
+","Knee Surgery
+
+","Coronavirus Positive
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+"
+47,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+","NA
+
+","Knee Surgery
+
+","Coronavirus Positive
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+"
+48,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+","NA
+
+
+","Knee Surgery
+
+
+","Coronavirus Positive
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+"
+49,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+
+
+
+","Milk, Walnuts, Zucchini
+
+
+
+","Coronavirus Survivor
+
+
+
+","Brain Tumor
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+"
+50,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+","NA
+
+
+
+","Knee Surgery
+
+
+
+","Coronavirus Positive
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+"
+51,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+","NA
+
+
+
+","Knee Surgery
+
+
+
+","Coronavirus Positive
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+"
+52,Human Person690,420,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+","NA
+
+
+
+
+","Knee Surgery
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+53,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+","NA
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+"
+54,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+"
+55,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+"
+56,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+","NA
+
+
+
+
+","Knee Surgery
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+57,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+","NA
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+"
+58,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+"
+59,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+
+
+
+
+","Milk, Walnuts, Zucchini
+
+
+
+
+","Coronavirus Survivor
+
+
+
+
+","Brain Tumor
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+60,,,,28-05-2021,,,,"
+","
+","
+","
+","
+"
+61,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+"
+62,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+"
+63,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+"
+64,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+"
+65,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+"
+66,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+67,Human Person690,90909909,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+68,abcd,90909909,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+69,abcd,90909909,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+70,abcd,90909909,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+71,abcd,90909909,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+72,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+"
+73,Human Person690,42000,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+"
+74,Human Person9,1234509,24,28-05-2021,F,9876543209,sassysniper007@gmail.com,"Back Pain
+
+
+
+
+
+","Milk, Walnuts, Zucchini
+
+
+
+
+
+","Coronavirus Survivor
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+"
+75,Human Person6,1234506,14,28-05-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+"
+76,Human Person9,1234509,24,28-05-2021,F,9876543209,HumanPerson1@gmail.com,"Back Pain
+","Milk, Walnuts, Zucchini
+","Coronavirus Survivor
+","Brain Tumor
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+76,Human Person9,1234509,24,28-05-2021,F,9876543209,HumanPerson1@gmail.com,"Back Pain
+","Milk, Walnuts, Zucchini
+","Coronavirus Survivor
+","Brain Tumor
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+77,Human Person4,1234504,87,13-06-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+
+","No past medical history
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+"
+78,Human Person6,1234506,14,13-06-2021,M,9876543206,devenjain2020@gmail.com,"Neck Pain
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+"
+79,,,,02-10-2025,,,,"
+","
+","
+","
+","
+"
+80,Preeti_Deven,1234504,87,04-10-2021,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+
+
+
+","No past medical history
+
+
+
+
+
+
+
+","Brain Tumor
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+"
+81,Human Person4,1234504,87,17-08-2024,F,9876543204,sassysniper007@gmail.com,"Vision Blurriness
+
+
+
+
+","Pineapple, Walnuts, Cucumber
+
+
+
+
+","No past medical history
+
+
+
+
+","Brain Tumor
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+"
+82,Human Person11,1234511,16,06-11-2021,F,9876543211,HumanPerson3@gmail.com,"Stomach Ache
+","Almonds, Jelly, Milk
+","Epilipsy, Thyroxin
+","Coronavirus Positive
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+83,Human Person3,1234503,64,24-11-2021,M,9876543203,HumanPerson3@gmail.com,"Stomach Ache
+","Milk, Walnuts, Zucchini
+","Coronavirus Survivor
+","Coronavirus Positive (Mild Strain)
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+84,Human Person3,1234503,64,24-11-2021,M,9876543203,abimbrahw@gmail.com,"Stomach Ache
+","Milk, Walnuts, Zucchini
+","Coronavirus Survivor
+","Hawas ka pujari
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+"
+85,Human Person690,42000,14,13-02-2020,M,9876543206,devenjain2020@gmail.com,"Neck Pain, Back Pain
+
+
+
+
+
+
+
+
+
+
+
+
+","NA
+
+
+
+
+
+
+
+
+
+
+
+
+","Knee Surgery
+
+
+
+
+
+
+
+
+
+
+
+
+","Coronavirus Positive
+
+
+
+
+
+
+
+
+
+
+
+
+","Medical Advice:
+Please Take the following:
+     1. Medecine 1 - Twice a day for 4 weeks
+     2. Medecine 2 - Thrice a day for 2 months
+     3. Ointment 1 - Apply Daily for 6 weeks
+     4. Syrup 1 - To be taken after meals for 3 months
+
+Follow up: After 15 days.
+
+Daiy Exercise, Get well soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+"

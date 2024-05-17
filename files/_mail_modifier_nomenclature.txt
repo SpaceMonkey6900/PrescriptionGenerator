@@ -1,0 +1,14 @@
+Variable Names:
+
+{Mname}=Name
+{Mdate}=Date
+{Mage}=Age
+{Mgender}=Gender
+{MPID}=Patient ID
+{Mallergy}=Allergy
+{Mhistory}=History
+{MR}=That R thing
+{Mdiag}=Diagnostics
+
+//These are the Variable names that you need to use while writing your own Email
+//See "email_body.txt" for examples.
